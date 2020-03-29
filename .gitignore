@@ -4,6 +4,7 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+challenge01
 
 # Crash log files
 crash.log
